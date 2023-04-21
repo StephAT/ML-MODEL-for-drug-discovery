@@ -34,7 +34,7 @@ def build_model(input_data):
     st.markdown(filedownload(df), unsafe_allow_html=True)
 
 # Logo image
-image = Image.open('LOGO.JPEG')
+image = Image.open('LOGO.jpg')
 
 st.image(image, use_column_width=True)
 
