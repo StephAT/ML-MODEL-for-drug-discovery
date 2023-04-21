@@ -53,7 +53,7 @@ This app allows you to predict the bioactivity towards inhibting the target CHEM
 with st.sidebar.header('1. Upload your CSV dataset file'):
     uploaded_file = st.sidebar.file_uploader("Upload your input file", type=['txt'])
     st.sidebar.markdown("""
-[Example input file](https://github.com/baker371/Drug-Discovery/blob/main/Malaria_Drug_Discovery/sample.txt)
+[Example input file](https://github.com/StephAT/ML-MODEL-for-drug-discovery/blob/main/sample.txt)
 """)
 
 if st.sidebar.button('Predict'):
