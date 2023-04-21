@@ -45,7 +45,7 @@ st.markdown("""
 
 This app allows you to predict the bioactivity towards inhibting the target CHEMBL2366922.
 
-[See Methods](https://github.com/baker371/Drug-Discovery/blob/main/Malaria_Drug_Discovery/Steps.ipynb)
+[See Methods](https://github.com/StephAT/ML-MODEL-for-drug-discovery/blob/main/Steps.ipynb)
 
 """)
 
