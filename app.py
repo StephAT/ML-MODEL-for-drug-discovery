@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import padelpy as pp
 from PIL import Image
 from padelpy import padeldescriptor
 import subprocess
