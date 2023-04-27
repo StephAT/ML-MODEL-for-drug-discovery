@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 #import padelpy
 from PIL import Image
-from padelpy import padeldescriptor
+#from padelpy import padeldescriptor
 import subprocess
 import os
 import base64
